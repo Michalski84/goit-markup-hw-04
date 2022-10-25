@@ -56,7 +56,7 @@ p {
       rgba(47, 48, 58, 0.4),
       rgba(255, 255, 255, 0)
     ),
-    url(/images/background.jpg);
+    url(../images/background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1600px 600px;
